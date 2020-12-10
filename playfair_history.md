@@ -3,6 +3,7 @@
 * Invented by Wheatstone for secrecy in telegraphy, but was promoted by Lord Playfair
 * The first recorded version of the Playfair Cipher is in March 1854
 ![Lord Playfair](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lyon_Playfair.jpg/800px-Lyon_Playfair.jpg =250x)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lyon_Playfair.jpg/800px-Lyon_Playfair.jpg" alt="drawing" width="200"/>
 </br>
 
 I think that the Playfair cipher was unique because it was initailly requected after British government suggusted that it would be too hard to teach. Wheatstone later showed that it only takes 15 minutes to learn and was proved effective in both World War 1 and World War 2.
