@@ -1,6 +1,6 @@
 # CipherProject
 
-# CipherProject
+# Playfair Cipher
 
 
 #### Historical context
