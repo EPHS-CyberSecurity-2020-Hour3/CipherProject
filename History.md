@@ -1,0 +1,2 @@
+## The M-94 Cipher was invented in 1917 by the United States military as a form of writing encrypted tactical messages
+## The basic principle off the cipher is based off of an invention created in 1795 by Thomas Jefferson
