@@ -1,6 +1,6 @@
 # CipherProject
 
-# CipherProject
+# Substitution-Cypher
 
 
 #### Historical context
