@@ -5,4 +5,4 @@ Things need to create a encrypted message...
 * A key (a combination of letters)
 * A 5x5 grid that is created by using the key
 * Sort your plain text into groups of pairs while sets of 2 letters
-  * Test
+  * Example: "this is a message" -> "th is is am es sa ge"
