@@ -11,6 +11,6 @@ I think that the Playfair cipher was unique because it was initailly requected a
 The effectiveness of the Playfair Cipher was due to its easiness to use and it requires no special equipment. As quoted by Wikipedia,"just requires a pencil and some paper" to operate the Playfair cipher.
 </br>
 
-The Playfair was used to protect important data, however, not top seceret data that played a critical part in the war. It would take hours to decode the message so by the time the message is decoded the information within the message will be useless. A typical example would be telling the troops to attact but by the time the enemy decoded the message it would be considered usless because they have already attacked.
+The Playfair was used to protect important data, however, not top seceret data that played a critical part in the war. It would take hours to decode the message so by the time the message is decoded the information within the message will be useless. A typical example would be telling the troops to attack but by the time the enemy decoded the message it would be considered usless because they have already attacked.
 
 [History of PlayFair](https://en.wikipedia.org/wiki/Playfair_cipher#History)
