@@ -1,4 +1,4 @@
-## Pigpen Mechanics
+# Pigpen Mechanics
 
 The Pigpen Cipher is another example of a substitution cipher, but rather than replacing each letter with another letter, the letters are replaced by symbols. 
 
@@ -7,5 +7,5 @@ First you write out the whole alphabet in two grids like tik tak toe. Write two 
 So an A looks like this: L
 And a B looks like this: L.
 
-# Encryption
+## Encryption
 The encryption process is fairly straightforward, replacing each occurence of a letter with the designated symbol. The symbols are assigned to the letters using any given key, where the letter shown is replaced by the part of the image in which it is located.
