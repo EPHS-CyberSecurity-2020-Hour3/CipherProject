@@ -5,8 +5,10 @@
 
 #### Historical context
   When was this cipher used? Who used it?
+  The Atbash Cipher goes all the way back to 500 BC, during the age of the Knights Templar, who used it until their downfall in 1300 AD.
 #### Mechanics
   How does the cipher work?
+  The Atbash Cipher is a 
   Demo an encryption and decryption
   Is it symmetric, does the same process decrypt as encrypt?
 #### Mathematical Analysis
