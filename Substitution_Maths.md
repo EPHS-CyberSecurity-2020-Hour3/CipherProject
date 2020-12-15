@@ -1,6 +1,6 @@
 # Math
-*The number of keys possible with the substitution cipher is much higher, around 2^88 possible keys. This means we cannot test them all, we have to 'search' for good keys. We will be using a 'hill-climbing' algorithm to find the correct key.*
-*The steps are: *
+> *The number of keys possible with the substitution cipher is much higher, around 2^88 possible keys. This means we cannot test them all, we have to 'search' for good keys. We will be using a 'hill-climbing' algorithm to find the correct key.*
+> The steps are: 
 1. Generate a random key, called the 'parent', decipher the ciphertext using this key. 
 2. Rate the fitness of the deciphered text, store the result.
 3. Change the key slightly (swap two characters in the key at random), measure the fitness of the deciphered text using the new key.
