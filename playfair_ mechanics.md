@@ -30,8 +30,9 @@ Things need to create a encrypted message...
   * "OL" is up next
   > The pair OL forms a rectangle, replace it with NA
   ![Encrypt OL](https://upload.wikimedia.org/wikipedia/commons/7/79/Playfair_Cipher_05_OL_to_NA.png)
- * Follow this same process until EX
- > The pair EX (X inserted to split EE) is in a row, replace it with XM	
- ![Encrypt EX](https://upload.wikimedia.org/wikipedia/commons/2/29/Playfair_Cipher_10_EX_to_XD.png)
+  * Follow this same process until EX
+  > The pair EX (X inserted to split EE) is in a row, replace it with XM	
+  ![Encrypt EX](https://upload.wikimedia.org/wikipedia/commons/2/29/Playfair_Cipher_10_EX_to_XD.png)
  * You now know the basic steps so you can follow this same proccess until you finish the entire cipher.
+ </br>
 After following these steps you get **"BM OD ZB XD NA BE KU DM UI XM MO UV IF"** as your encrpyted message!
