@@ -11,13 +11,13 @@ The cipher does combine i with j and u with v.
 
 "abhay" would be split into letters then turned into decimal numbers and then into the "baconian binary"so it would be:
 
-a = 0 =AAAAA
-b = 1 =AAAAB
-h = 7 =AABBB
-a = 0 =AAAAA
-y = 22 =BABBA
+a = 0 = AAAAA
+b = 1 = AAAAB
+h = 7 = AABBB
+a = 0 = AAAAA
+y = 22 = BABBA
 
-Then it would be recombined to be AAAAAAAAABAABBBBABBA
+Then it would be recombined to be AAAAA AAAAB AABBB AAAAA BABBA
 
 Then when you want to decrypt it you would split it every 5th letter then turn convert every letter by reading it like binary and the decimal number that you get would become the letter in the normal alphabet, like this:
 
