@@ -15,5 +15,12 @@ Message:      I need to go get eggs from the store
 
 Encrypted:    F KBBA SL DL DBS BDDQ CPLJ SEB QSLPB
 
+Picture:
+
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ROT13.png/300px-ROT13.png
+
+Sources:
+
+https://en.wikipedia.org/wiki/Substitution_cipher#:~:text=In%20cryptography%2C%20a%20substitution%20cipher,the%20above%2C%20and%20so%20forth.
+
 
