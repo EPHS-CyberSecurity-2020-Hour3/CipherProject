@@ -6,6 +6,7 @@ Things need to create a encrypted message...
 * A 5x5 grid that is created by using the key
 * Sort your plain text into groups of pairs while sets of 2 letters
   * Example: "Hide the gold in the tree stump" -> **"HI DE TH EG OL DI NT HE TR EX ES TU MP"**
+  * It is "EX" because it splits up the EE
 * Configure the grid with the key
   * In this case we will be using **"playfair example"** as the key
   * The grid is show below
@@ -18,7 +19,7 @@ Things need to create a encrypted message...
   > HI forms a rectangle therefore we replace it with BM
   ![Encrypt HI](https://upload.wikimedia.org/wikipedia/commons/4/40/Playfair_Cipher_01_HI_to_BM.png)
   * Next we need to do "DE"
-  > The pair DE is in a column, replace it with OD
+  > The pair DE is in a column, replace it with OD           
   ![Encrypt "DE"](https://upload.wikimedia.org/wikipedia/commons/4/44/Playfair_Cipher_02_DE_to_OD.png)
   * The next pair is "TH"
   > Similar to HI, pair TH forms a rectangle. Therefore, replace it with ZB
@@ -29,4 +30,8 @@ Things need to create a encrypted message...
   * "OL" is up next
   > The pair OL forms a rectangle, replace it with NA
   ![Encrypt OL](https://upload.wikimedia.org/wikipedia/commons/7/79/Playfair_Cipher_05_OL_to_NA.png)
-  
+ * Follow this same process until EX
+ > The pair EX (X inserted to split EE) is in a row, replace it with XM	
+ ![Encrypt EX](https://upload.wikimedia.org/wikipedia/commons/2/29/Playfair_Cipher_10_EX_to_XD.png)
+ * You now know the basic steps so you can follow this same proccess until you finish the entire cipher.
+After following these steps you get **"BM OD ZB XD NA BE KU DM UI XM MO UV IF"** as your encrpyted message!
