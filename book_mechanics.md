@@ -25,6 +25,8 @@ Reverse encryption methods.
 * The: page 345
 * Artist: page 294
 etc.... 
+##Links:
+* https://www.dcode.fr/book-cipher#q1
 
 
 
