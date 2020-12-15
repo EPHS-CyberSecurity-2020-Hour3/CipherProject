@@ -7,7 +7,9 @@ The encryption key is the agreed upon piece of text.
 2. replacing each letter in plaintext with a letter, word, or number
 3. replacing each word in plaintext with a page number
 Example: 
-Text: The sleepy dog laid down by the fireplace
+Text: The energetic dog ate a lemon before going to bed. 
+1, 4, 7, 6, 2
+T  a  b  l e
 
 ## Decryption: 
 
