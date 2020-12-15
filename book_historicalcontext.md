@@ -1,3 +1,3 @@
-<h1> Historical Context
+# Historical Context
 
-* The Book Cipher was used by 
+Book Ciphers trace back many years ago. How they worked was each column and row in a book was given a specific symbol. Then, that symbol could be attempted to be solved to find the true meaning of the book. Jacobus Silvestri was one of the first people to create a book cipher. This was back in 1526, Silvestri, would create code books and dictionaries that had root words.
