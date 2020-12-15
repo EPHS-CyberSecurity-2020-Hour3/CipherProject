@@ -1,9 +1,9 @@
-Mechanics:
+# Mechanics
 
 The substitutions cipher works by substituting units of plaintext with ciphertext. They are also symmetric and the same process is used for both ways. Simple
 substitution involves a keyword replacing the first letters of the alphabet, then writing the rest of the alphabet.
 
-Example:
+## Example:
 
 Keyword: Run
 
