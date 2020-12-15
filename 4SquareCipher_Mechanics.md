@@ -10,3 +10,5 @@ Using it
 Decrypting
 -----------------
 * Decrypting works with this cipher by just using the random letters as the way to form the box frame and doing it the oppsite way.
+## The process of encrypting/decrypting
+![Four-Sguare-Cipher](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/1693849_orig.jpg)
