@@ -23,7 +23,7 @@ Then it would be recombined to be AAAAA AAAAB AABBB AAAAA BABBA
 
 Then when you want to decrypt it you would split it every 5th letter then turn convert every letter by reading it like binary and the decimal number that you get would become the letter in the normal alphabet, like this:
 
-|"Baconian Binary"| Decimal     |letter|
+|"Baconian Binary"| Decimal     |Letter|
 | ----------- | ----------- |---------------- |
 | AAAAA       | 0           |  a         |
 | AAAAB       | 1           |   b       |
