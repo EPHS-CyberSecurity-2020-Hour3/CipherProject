@@ -7,13 +7,13 @@ Example:
 
 Keyword: Run
 
-Plaintext:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Plaintext:    ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-Ciphertext: RUNABCDEFGHIJKLMOPQSTVWXYZ
+Ciphertext:   RUNABCDEFGHIJKLMOPQSTVWXYZ
 
-Message:   I need to go get eggs from the store
+Message:      I need to go get eggs from the store
 
-Encrypted: F KBBA SL DL DBS BDDQ CPLJ SEB QSLPB
+Encrypted:    F KBBA SL DL DBS BDDQ CPLJ SEB QSLPB
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ROT13.png/300px-ROT13.png
 
