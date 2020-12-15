@@ -1,6 +1,6 @@
 # Mechanics: 
 ## Encryption Key:
-The encryption key is the agreed upon book. 
+The encryption key is the agreed upon piece of text. 
 ## Encryption: 
 3 Ways
 1. replacing each plaintext word with a word number from the book
