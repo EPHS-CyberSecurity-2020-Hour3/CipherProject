@@ -35,4 +35,6 @@ Things need to create a encrypted message...
   ![Encrypt EX](https://upload.wikimedia.org/wikipedia/commons/2/29/Playfair_Cipher_10_EX_to_XD.png)
  * You now know the basic steps so you can follow this same proccess until you finish the entire cipher.
  </br>
-After following these steps you get **"BM OD ZB XD NA BE KU DM UI XM MO UV IF"** as your encrpyted message!
+After following these steps you get "BM OD ZB XD NA BE KU DM UI XM MO UV IF" as your encrpyted message!
+</br>
+The decryption process would be the same as the encryption expect opposite and you would be required to know the correct key
