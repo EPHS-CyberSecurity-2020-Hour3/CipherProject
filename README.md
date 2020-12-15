@@ -21,6 +21,7 @@
   Why did this stop being a useful code?
   What made it useful when it was being used?
   What are other interesting uses of this code or similar codes?
+[Final Analysis](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/playfair_cipher/playfair_final.md)
 
 Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
 
