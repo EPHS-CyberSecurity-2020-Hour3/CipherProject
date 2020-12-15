@@ -10,7 +10,6 @@ Things need to create a encrypted message...
   * In this case we will be using "playfair example" as the key
   * The grid is show below
 </br>
-
 ![Example Grid](https://upload.wikimedia.org/wikipedia/commons/e/ef/Playfair_Cipher_building_grid_omitted_letters.png)
 
 * Next
