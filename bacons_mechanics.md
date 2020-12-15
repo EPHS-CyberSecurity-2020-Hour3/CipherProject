@@ -9,9 +9,9 @@ The cipher works kind of like binary starting with 0 to 23 with 0s being A and 1
 0 would be A and 23 would be Z
 The cipher does combine i with j and u with v.
 
-"abhay" would be split into letters then turned into decimal numbers and then into the "baconian binary"so it would be:
+"abhay" would be split into letters then turned into decimal numbers and then into the "Baconian Binary" so it would be:
 
-| Letter      | Decimal     |"Baconian Cipher"|
+| Letter      | Decimal     |"Baconian Binary"|
 | ----------- | ----------- |---------------- |
 | a           | 0           | AAAAA           |
 | b           | 1           | AAAAB           |
@@ -22,6 +22,14 @@ The cipher does combine i with j and u with v.
 Then it would be recombined to be AAAAA AAAAB AABBB AAAAA BABBA
 
 Then when you want to decrypt it you would split it every 5th letter then turn convert every letter by reading it like binary and the decimal number that you get would become the letter in the normal alphabet, like this:
+
+|"Baconian Binary"| Decimal     |letter|
+| ----------- | ----------- |---------------- |
+| AAAAA       | 0           |  a         |
+| AAAAB       | 1           |   b       |
+| AABBB      | 7           |   h        |
+| AAAAA         | 0           |    a     |
+| BABBA        | 22          |   y      |
 
 AAAAA = 0 = a
 AAAAB = 1 = b
