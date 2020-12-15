@@ -31,12 +31,6 @@ Then when you want to decrypt it you would split it every 5th letter then turn c
 | AAAAA         | 0           |    a     |
 | BABBA        | 22          |   y      |
 
-AAAAA = 0 = a
-AAAAB = 1 = b
-AABBB = 7 = h
-AAAAA = 0 = a
-BABBA = 22 = y
-
-Which would make "AAAAAAAAABAABBBBABBA" == "abhay"
+Which would make " AAAAB AABBB AAAAA BABBA" == "abhay"
 
 This proves that baons cypher is symmetric because you use the same method to encrypt as decrypting it.
