@@ -16,4 +16,4 @@ Things need to create a encrypted message...
 * Now that the grid is created, you need to take the pairs of plaintext to encrypt into corresponding cyphertext
   * The first pair that we need to encrypt is "HI"
   > HI forms a rectangle therefore we replace it with BM
-  \t ![Encrypt HI](https://upload.wikimedia.org/wikipedia/commons/4/40/Playfair_Cipher_01_HI_to_BM.png)
+  ![Encrypt HI](https://upload.wikimedia.org/wikipedia/commons/4/40/Playfair_Cipher_01_HI_to_BM.png)
