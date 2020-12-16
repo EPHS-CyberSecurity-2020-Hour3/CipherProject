@@ -30,14 +30,14 @@ f = 21
 now you wanna add these together to encrypt them
 
  25, 15, 21, 21
-+34, 33, 15, 34
-=59, 48, 36, 55
++ 34, 33, 15, 34
+= 59, 48, 36, 55
 
 to decrypt you wanna use the same polybuis square
 
  59, 48, 36, 55
--34, 33, 15, 34
-=25, 15, 21, 21
+- 34, 33, 15, 34
+= 25, 15, 21, 21
 
 25 = j
 15 = e
