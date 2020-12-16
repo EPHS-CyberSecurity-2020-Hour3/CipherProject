@@ -4,3 +4,4 @@ In book ciphers, it's important to make sure that both the sender and the reciev
 There isn't a specific number of the possible keys or codes as it depends on how many pages, sheets and columns each book has. Also, the mathematical complexity of this cipher is not to high looking at how book ciphers aren't considered to be secure.
 
 ![Example](http://twimgs.com/ddj/images/article/2008/0809/080901dr01_f2.gif)
+![Source for this page](https://www.drdobbs.com/security/the-book-cipher-algorithm/210603676)
