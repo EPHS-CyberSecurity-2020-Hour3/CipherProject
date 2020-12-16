@@ -27,8 +27,9 @@ def key():
   z=".^"
 
 def main():
-for letter in helloworld:
+message = input()
+for letter in message:
    letter = letter.lower()
-   print(key[letter], end="")
-   .write(key[letter]+' ')
+   message.append(key.get(letter, letter))
+   return ''.join(message)
 main()
