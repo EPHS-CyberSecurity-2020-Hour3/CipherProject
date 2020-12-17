@@ -32,4 +32,4 @@ for letter in message:
    letter = letter.lower()
    message.append(key.get(letter, letter))
    return ''.join(message)
-main()
+main() 
