@@ -1,5 +1,5 @@
-plainText  = "thisisamessage".upper()
-
+plainText  = "thisisamessaget".upper()
+cyphertext = ""
 key = "toughkey".upper()
 
 grid = [["T","O","U","G","H"],["K","E","Y","A","B"],["C","D","F","I","L"],["M","N","P","Q","R"],["S","V","W","X","Z"]]
@@ -44,26 +44,44 @@ for pair in pairsArray:
         down = 0
 firstDownCord = 0
 firstAcrossCord = 0
-secondAcrossCard = 0
-secondDownCard = 0
+secondAcrossCord = 0
+secondDownCord = 0
 cordIndex = 0
-for cord in letterCords:
+tempVar = ""
+for cord in range(0,int(len(letterCords)/2)):
     if cordIndex == len(letterCords)-1:
         continue
-    if cordIndex%2 == 1:
-        pass
-    firstdownCord = cord[0]
-    firstacrossCord = cord[1]
-    secondAcrossCard = letterCords[cordIndex+1][0]
-    secondDownCard = letterCords[cordIndex+1][1]
-    if firstAcrossCord == secondAcrossCard:
-        firstDownCord = (firstDownCord+1)%4
-        secondDownCard = (secondDownCard+1)%4
     
+    firstDownCord = letterCords[cordIndex][0]
+    firstAcrossCord = letterCords[cordIndex][1]
+    secondAcrossCord = letterCords[cordIndex+1][1]
+    secondDownCord = letterCords[cordIndex+1][0]
+    if firstAcrossCord == secondAcrossCord:
+       firstDownCord = (firstDownCord+1)%5
+       secondDownCord = (secondDownCord+1)%5
+    elif firstDownCord == secondDownCord:
+       firstAcrossCord = (firstAcrossCord+1)%5
+       secondAcrossCord = (secondAcrossCord+1)%5
+    else:
+        tempVar = firstAcrossCord
+        firstAcrossCord = secondAcrossCord
+        secondAcrossCord = tempVar
+    #encryptedCords.append(cordIndex)
     encryptedCords.append([firstDownCord, firstAcrossCord])
-    encryptedCords.append([secondDownCard, secondAcrossCard])
-    cordIndex+=1
-
+    encryptedCords.append([secondDownCord, secondAcrossCord])
+    
+    cordIndex+=2
+for finalPairs in encryptedCords:
+    encryptedPairs.append(grid[finalPairs[0]][finalPairs[1]])
+letterIndex = 0
+for letter in encryptedPairs:
+    if letterIndex%2 == 1:
+        cipherText = cipherText+letter
+    else:
+        cipherText = cipherText+" "+letter
+    letterIndex += 1
 
 print(letterCords)
 print (encryptedCords)
+print(encryptedPairs)
+print(cipherText+finalLetter)
