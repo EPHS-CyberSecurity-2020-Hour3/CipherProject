@@ -8,4 +8,4 @@ Due to its simplicity, pigpen is extremely easy to translate. This makes for a u
 
 ## Interesting uses
 * Ancient location encryption (pirate treasure maps)
-* Private gravestone inscriptions
+* Private gravestone inscriptions 
