@@ -18,8 +18,8 @@
 7. That is the encrypted letter
 8. Repeat for every plaintext letter
 
-[Ex](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/1889186.jpg?459)
-[Ex2](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/2154108_orig.jpg)
+![Ex](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/1889186.jpg?459)
+![Ex2](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/2154108_orig.jpg)
 
 ## This is how you can Decrypte it Yourself
 
@@ -31,4 +31,4 @@
 5. The letter on the left side of the table that is on the same height as the cipher letter is the plaintext letter
 6. Repeat for every cipher letter
 
-[Ex3[(https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/6676042_orig.jpg)
+![Ex3](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/6676042_orig.jpg)
