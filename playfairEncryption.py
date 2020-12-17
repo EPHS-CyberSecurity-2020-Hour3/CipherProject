@@ -84,4 +84,4 @@ for letter in encryptedPairs:
 print(letterCords)
 print (encryptedCords)
 print(encryptedPairs)
-print(cipherText+finalLetter)
+print(cipherText+" "+finalLetter)
