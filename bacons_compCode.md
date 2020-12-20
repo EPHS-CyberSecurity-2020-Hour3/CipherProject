@@ -7,7 +7,8 @@ There is a pretty easy way to decode it just by switching the A's and B's to 0's
 
 
 # Python Code 
-'''
+
+```
 
 from textwrap import wrap
 
@@ -84,7 +85,7 @@ elif ans == "D":
 
   dence()
 
-'''
+```
 
 
 
