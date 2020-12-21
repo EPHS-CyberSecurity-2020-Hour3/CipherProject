@@ -18,3 +18,6 @@ textInput = Entry(Inputframe, width = 75, bd = 5) textInput.pack(side = RIGHT)
 run = 1
 
 while run == 1: SYMBOLS = "abcdefghijklmnopqrstuvwxyz" CIPHER = "zyxwvutsrqponmlkjihgfedcba" mode = input("Would you like to encrypt or decrypt a message? ") plaintext = input("Enter your message: ") plaintext = plaintext.lower() message = "" for symbol in plaintext: if symbol in SYMBOLS: symbolIndex = SYMBOLS.find(symbol)
+
+
+[Ralster's code](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/atbashcipher/atbashCipher.py)
