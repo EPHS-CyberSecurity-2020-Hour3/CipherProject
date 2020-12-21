@@ -1,6 +1,7 @@
-*What is this cipher? (affine)
+When was this cipher used?
 
-The Affine cipher is a monoalphabetic cipher where each letter is assigned to its numeric equivalent.
+It was used through its creation date {1983} until recent
 
-*Who used this cipher?
+Who used it?
 
+Cryptographers (couldn't find the other origins)
