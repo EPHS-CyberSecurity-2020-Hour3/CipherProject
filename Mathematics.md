@@ -1,2 +1,3 @@
 # Mathematics
-## Not very complex. There is no real key, as each character is flipped from the alphabet.
+The atbash cipher is a monoalphabetic substitution cipher. 
+![Tux, the Linux mascot] (/Users/90305007/Downloads/atbashimage.jpg)
