@@ -1,1 +1,6 @@
-The rail fence cipher is written downwards and diagonally along successive rails along an imaginary fence.  
+The rail fence was useful in ancient greece when they used a special tool called a scytale to make encryption and decryption easier.
+
+due to a small number of keys the rail fence cipher is pretty easy to crack.  
+
+
+
