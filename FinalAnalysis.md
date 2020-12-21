@@ -1,2 +1,4 @@
 # Final Analysis
-Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
+
+I would not use the atbash cipher to secure any important information. Maybe it was secure during a time in which a slight fraction of the population could read, much less write.
+\n perhaps if I were playing a game with children I would see how long it would take them to figure out what the message is, but other than that, it provides no real practical use.
