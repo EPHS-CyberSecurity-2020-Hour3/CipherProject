@@ -11,6 +11,7 @@ Example
 
 encryption of the plaintext “sail” using an affine cipher with encryption key (3,7)
 produces ciphertext “JHFO” this way:
+
 s −→ 18 −→ 3 · 18 + 7 ≡ 9 (mod 26) −→ J
 
 a −→ 0 −→ 3 · 0 + 7 ≡ 7 (mod 26) −→ H
