@@ -1,17 +1,14 @@
 
  
 # Rail Fence Cipher Encryption 
-# and Decryption 
+
+[website](https://www.dcode.fr/rail-fence-cipher)
+
   
 # function to encrypt a message 
 def encryptRailFence(text, key): 
   
-    # create the matrix to cipher  
-    # plain text key = rows ,  
-    # length(text) = columns 
-    # filling the rail matrix  
-    # to distinguish filled  
-    # spaces from blank ones 
+ 
     rail = [['\n' for i in range(len(text))] 
                   for j in range(key)] 
       
@@ -117,20 +114,6 @@ def decryptRailFence(cipher, key):
         else: 
             row -= 1
     return("".join(result)) 
-  
-# Driver code 
-if __name__ == "__main__": 
-    print(encryptRailFence("attack at once", 2)) 
-    print(encryptRailFence("GeeksforGeeks ", 3)) 
-    print(encryptRailFence("defend the east wall", 3)) 
-      
-    # Now decryption of the 
-    # same cipher-text 
-    print(decryptRailFence("GsGsekfrek eoe", 3)) 
-    print(decryptRailFence("atc toctaka ne", 2)) 
-    print(decryptRailFence("dnhaweedtees alf tl", 3)) 
-  
-# This code is contributed  
-# by Pratik Somwanshi 
+ 
 
 
