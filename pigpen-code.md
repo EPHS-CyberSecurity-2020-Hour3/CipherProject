@@ -8,3 +8,6 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/Pigpen_cipher)
 * [Derek Bruff](https://derekbruff.org/blogs/fywscrypto/historical-crypto/prying-open-the-pigpen-cipher/)
 * [Kids Codecs](https://www.kidscodecs.com/pigpen-ciphers/) 
+
+## Decode
+The pigpen cipher can be easily decoded with frequency analysis.
