@@ -48,3 +48,8 @@ then we get the plaintext of jeff
 
 
 
+
+
+https://www.dcode.fr/nihilist-cipher
+
+
