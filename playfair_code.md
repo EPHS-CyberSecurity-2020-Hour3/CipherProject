@@ -1,10 +1,10 @@
 # Playfair Cipher Code
 [Code](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/playfair_cipher/playfairEncryption.py)
 ```javascript
-plainText  = "thisisamessaget".upper()
+
+plainText  = input("Enter a message to encrypt: ").upper()
 cyphertext = ""
 key = "toughkey".upper()
-
 grid = [["T","O","U","G","H"],["K","E","Y","A","B"],["C","D","F","I","L"],["M","N","P","Q","R"],["S","V","W","X","Z"]]
 line = ""
 for row in grid:
@@ -87,5 +87,6 @@ for letter in encryptedPairs:
 print(letterCords)
 print (encryptedCords)
 print(encryptedPairs)
+print(plainText)
 print(cipherText+" "+finalLetter)
 ```
