@@ -48,6 +48,10 @@ then we get the plaintext of jeff
 
 
 
+[mathmaticel analysis](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Nihilist-Cipher/Nihilist_Cipher_math.md)
+
+
+
 
 
 https://www.dcode.fr/nihilist-cipher
