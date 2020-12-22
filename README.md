@@ -1,4 +1,7 @@
-# Pigpen Cipher
+# CipherProject
+
+# CipherProject
+
 
 #### Historical context
   When was this cipher used? Who used it?
@@ -36,9 +39,8 @@ Your final presentation should be given to the class as a github repo with visua
 - Scytale Cipher
 - Bacon's Cipher
 - Book Cipher
-- Pigpen Cipher
+- [Pigpen Cipher](pigpen-history.md]
 - Playfair Cipher
 - M-94 Cipher
 - Nihilist Cipher
 - Hill Cipher
-
