@@ -8,3 +8,6 @@ Bacons cipher otherwise know as the Baconian cipher was first devised by Francis
 
 ### source
 https://www.wondersandmarvels.com/2012/12/shakespeares-secrets-a-hidden-cipher-in-literatures-greatest-works.html
+
+
+[Next](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/baconsCipher/bacons_mechanics.md)
