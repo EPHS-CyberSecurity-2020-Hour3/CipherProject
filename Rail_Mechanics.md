@@ -4,3 +4,4 @@
 ### For the text "DEFEND THE EAST WALL" to be encrypted as a rail fence cipher it must first be separated into lines. The amount of lines you choose will become your key and it must be greater than 1 and less than the the amount of charatchers.
 ![cipher text](http://sylvainavenel.esy.es/DNL_SI/TheBlackChamber/TheBlackChamber/lib/3703653.jpg)
 ### Since the message did not fit exactly the two "X"'s were added as a placeholder. Then the lines must be written straight across without any spaces. So, the message "DEFEND THE EAST WALL" became the encrypted text "DNETLEEDHESWLXFTAAX"
+[next page: History]()
