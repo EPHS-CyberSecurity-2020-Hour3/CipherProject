@@ -18,3 +18,5 @@ Quoted by Plutarch (A Greek philosopher and priest)
 > And the parchment, like the staff, is called scytale, as the thing measured bears the name of the measure.
 
 It had great use in the military of the Greeks. However there is no evidence that the Scytale was very effective and wasn't decrypted. 
+
+[Mechanics](Scytale_Mechanics.md)
