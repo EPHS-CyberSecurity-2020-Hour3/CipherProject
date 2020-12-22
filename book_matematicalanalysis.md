@@ -5,3 +5,6 @@ There isn't a specific number of the possible keys or codes as it depends on how
 
 ![Example](http://twimgs.com/ddj/images/article/2008/0809/080901dr01_f2.gif)
 ![Source for this page](https://www.drdobbs.com/security/the-book-cipher-algorithm/210603676)
+
+[Mechanics](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/book_mechanics.md)
+[Computer Code](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/book_computercode.md)
