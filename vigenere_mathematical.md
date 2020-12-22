@@ -6,3 +6,5 @@
 
 ## How to Decrypt
 > The way cryptographers nowadays decrypt this cipher is using CRIBS, which are words that are commonly used in a language that are sometimes repeated even in the cipher text. Using that method, they can easily break the cipher once they figured out the length of the key. However, figuring out the length of the key can be a task on its own. Cryptographers have to the Kasiski examination, which is the process of identifying repetitions in the cipher text and measuring the space between them. From there, they can find the length of the key. After finding that length, they can easily figure out the plain text.
+
+[Next Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Vigenere/vigenere_finalanalysis.md)
