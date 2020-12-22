@@ -35,7 +35,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Polybius Square
 - Four Square Cipher
 - Rail fence cipher
-- Atbash Cipher
+- [Atbash Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/atbashcipher/code.md)
 - Scytale Cipher
 - [Bacon's Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/baconsCipher/bacons_history.md)
 - Book Cipher
