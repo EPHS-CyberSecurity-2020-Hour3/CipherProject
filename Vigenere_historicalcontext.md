@@ -7,3 +7,5 @@
  
  ## The Cipher
  > The cipher itself is a type of substitution cipher used to encode plaintext. This method has a long history and was already known before Vigenere. For many year this cipher developped by Vigenere was known as the *le chiffre indéchiffrable*, litteraly translates to the unbreakable code.
+
+[Next Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Vigenere/vigenere_computercode.md)
