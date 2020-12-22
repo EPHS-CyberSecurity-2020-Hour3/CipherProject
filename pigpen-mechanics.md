@@ -12,3 +12,5 @@ The encryption process is fairly straightforward, replacing each occurence of a 
 
 ## Decryption
 The decryption process is just the reverse of the encryption process. Using the same key, you locate the image depicted in the ciphertext, and replace it with the letter given by that part of the grid.
+
+[Mathmatics](pigpen-math.md)
