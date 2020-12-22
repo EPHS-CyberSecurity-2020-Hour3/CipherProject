@@ -19,4 +19,4 @@ i −→ 8 −→ 3 · 8 + 7 ≡ 5 (mod 26) −→ F
 
 l −→ 11 −→ 3 · 11 + 7 ≡ 14 (mod 26) −→ O
 
-Next [Page]()
+Next [Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Affine_Cipher/Affine_Cipher_Mechanics.md)
