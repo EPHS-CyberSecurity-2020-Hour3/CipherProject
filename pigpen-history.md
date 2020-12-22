@@ -10,3 +10,5 @@
 
 ## Historic Example
 ![historic_example](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/A-pigpen-message.svg/320px-A-pigpen-message.svg.png) 
+
+[Mechanics](pigpen-mechanics.md)
