@@ -42,7 +42,7 @@ Your final presentation should be given to the class as a github repo with visua
 - [Pigpen Cipher](pigpen-history.md)
 - [Playfair Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/main/playfair_history.md)
 - M-94 Cipher
-- Nihilist Cipher
+- [Nihilist Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Nihilist-Cipher/Nihilist_Cipher_historical.md)
 - Hill Cipher
 
 [Computer Code](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/book_computercode.md)
