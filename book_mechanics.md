@@ -26,8 +26,9 @@ Reverse encryption methods.
 * Artist: page 294
 etc.... 
 ##Links:
-* https://www.dcode.fr/book-cipher#q1
+* https://www.dcode.fr/book-cipher#q1 
 
+[Historical Context] (https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/book_historicalcontext.md)
 
 
 
