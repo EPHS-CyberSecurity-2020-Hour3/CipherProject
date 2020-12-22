@@ -15,4 +15,4 @@ The Playfair was used to protect important data, however, not top seceret data t
 
 [History of PlayFair](https://en.wikipedia.org/wiki/Playfair_cipher#History)
 </br>
-[Mechanics](playfair_ mechanics.md)
+[Mechanics](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/playfair_cipher/playfair_%20mechanics.md)
