@@ -6,4 +6,4 @@
 ![Vigenere](https://cdn.britannica.com/s:700x500/50/7850-050-219843C0/letter-plaintext-table-Vigenere-cipher-intersection-row.jpg)
 >  To decrypt this cipher, the plaintext letter can be determined by looking at the head of the column determined by the intersection of the diagonal containing the cipher letter and the row containing the key letter.
 
-[Next Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Vigenere/vigenere_mathematics.md)
+[Next Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Vigenere/vigenere_mathematical.md)
