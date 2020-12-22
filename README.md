@@ -29,17 +29,17 @@ Your final presentation should be given to the class as a github repo with visua
 - Transposition Cipher
 - Substitution Cipher
 - Multiplicative Cipher
-- Affine Cipher
-- Vigenere Cipher
+- [Affine Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Affine_Cipher/Affine_Cipher_Historical.md)
+- [Vigenere Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Vigenere/Vigenere_historicalcontext.md)
 - One-Time Pad
 - Polybius Square
 - Four Square Cipher
 - Rail fence cipher
-- Atbash Cipher
+- [Atbash Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/atbashcipher/code.md)
 - [Scytale Cipher](Scytale_History.md)
-- Bacon's Cipher
+- [Bacon's Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/baconsCipher/bacons_history.md)
 - Book Cipher
-- Pigpen Cipher
+- [Pigpen Cipher](pigpen-history.md)
 - Playfair Cipher
 - M-94 Cipher
 - Nihilist Cipher
