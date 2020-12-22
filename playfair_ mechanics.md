@@ -1,4 +1,5 @@
 # Playfair Cipher Mechanics
+[Math](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/playfair_cipher/playfair_mathmatics.md)
 The playfair cipher consists of a 5 by 5 grid which you use to encrypt your message
 </br>
 Things need to create a encrypted message...
@@ -38,4 +39,5 @@ Things need to create a encrypted message...
 After following these steps you get "BM OD ZB XD NA BE KU DM UI XM MO UV IF" as your encrpyted message!
 </br>
 The decryption process would be the same as the encryption expect opposite and you would be required to know the correct key
+</br>
 [Math](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/playfair_cipher/playfair_mathmatics.md)
