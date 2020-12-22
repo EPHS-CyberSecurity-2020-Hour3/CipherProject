@@ -4,4 +4,4 @@ The code stopped being as useful because it became easier and easier to crack ju
 
 It was used as a way to encrypt messages bettwen software in 1980s which is kinda cool not used in a war but still pretty cool.
 
-I thought it was intresting that in 1980s they went back and looked at the ceasar cypher and used the same consept it used.
+I thought it was intresting that in 1980s they went back and looked at the caesar cypher and used the same consept it used.
