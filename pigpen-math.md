@@ -5,3 +5,5 @@ both ciphertexts end in the same 9 symbols, this repeated pattern suggests they 
 
 ## Diagram
 ![Assignation](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pigpen_cipher_key.svg/220px-Pigpen_cipher_key.svg.png)
+
+[Code](pigpen-code.md)
