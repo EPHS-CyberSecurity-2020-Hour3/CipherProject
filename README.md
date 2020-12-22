@@ -42,5 +42,5 @@ Your final presentation should be given to the class as a github repo with visua
 - Pigpen Cipher
 - Playfair Cipher
 - M-94 Cipher
-- Nihilist Cipher
+- [Nihilist Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Nihilist-Cipher/Nihilist_Cipher_historical.md)
 - Hill Cipher
