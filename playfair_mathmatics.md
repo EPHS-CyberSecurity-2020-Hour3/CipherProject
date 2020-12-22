@@ -1,4 +1,5 @@
 # Playfair Cipher Mathematic Analysis
+[Code](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/playfair_cipher/playfair_code.md)
 Because this cipher uses a 5x5 grid it take much more cipher text to be able to use frequency analysis
 > 25*25=625 possible alphebets to look through rather than the 25 possible single letter alphebets
 Also the data ends up being more secure becaue it is encrypted in pairs
