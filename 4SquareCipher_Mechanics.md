@@ -13,4 +13,4 @@ Decrypting
 ## The process of encrypting/decrypting
 ![Four-Sguare-Cipher](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/1693849_orig.jpg)
 ------------
-[Mathmatical Analysis](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Four_Square_Cipher/4SquareCipher_Mechanics.md)
+[Mathmatical Analysis](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Four_Square_Cipher/4SquareCipher_Mathematical_Analysis.md)
