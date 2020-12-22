@@ -4,4 +4,4 @@ How does the cipher work? Demo an encryption and decryption Is it symmetric
 
 2. See Cypher [here](https://cryptii.com/pipes/affine-cipher)
 
-Next[Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Affine_Cipher/Affine_Cipher_FinalAnalysis.md)
+Next [Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Affine_Cipher/Affine_Cipher_FinalAnalysis.md)
