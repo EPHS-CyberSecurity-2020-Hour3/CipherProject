@@ -29,8 +29,6 @@ etc....
 ##Links:
 * https://www.dcode.fr/book-cipher#q1 
 
-[Historical Context](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/book_historicalcontext.md)
-
-[Mathamatical Analysis](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/book_matematicalanalysis.md)
+[Read Me](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Book_Cipher/README.md)
 
 
