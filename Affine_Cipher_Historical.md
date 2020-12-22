@@ -10,3 +10,5 @@ It was used through its creation date {1983} until recent
 Who used it?
 
 Cryptographers (couldn't find the other origins)
+
+Next [Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Affine_Cipher/Affine_Cipher_Mathematical.md)
