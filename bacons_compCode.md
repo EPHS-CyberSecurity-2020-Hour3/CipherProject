@@ -87,7 +87,4 @@ elif ans == "D":
 
 ```
 
-
-
- 
- 
+[Next](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/baconsCipher/bacons_math.md)
