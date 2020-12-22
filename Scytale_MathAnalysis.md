@@ -15,3 +15,5 @@ You could have as many rows as there are characters in the messages (spaces woul
 The same goes for the columns. Thus, if the message is x characters long, there can be x amounts of combinations. 
 
 https://en.wikipedia.org/wiki/Scytale
+
+[Code](Scytale_Code.md)
