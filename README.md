@@ -3,9 +3,9 @@
 # Substitution-Cypher
 
 
-#### [Substitution_History](rail-fence_computercode.md)
+#### [Substitution_History.md](rail-fence_computercode.md)
   When was this cipher used? Who used it?
-#### Mechanics
+#### [Substitution_Mechanics.md](rail-fence_computercode.md)
   How does the cipher work?
   Demo an encryption and decryption
   Is it symmetric, does the same process decrypt as encrypt?
