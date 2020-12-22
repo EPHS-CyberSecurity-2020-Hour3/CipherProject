@@ -1,12 +1,10 @@
 
  
-# Rail Fence Cipher Encryption 
+# Rail Fence Code 
 
 [website](https://www.dcode.fr/rail-fence-cipher)
 
-  
-# function to encrypt a message 
-def encryptRailFence(text, key): 
+
   
  
     rail = [['\n' for i in range(len(text))] 
