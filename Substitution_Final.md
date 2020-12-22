@@ -1,0 +1,2 @@
+## Uses of substitution cipher? Substitution ciphers encrypt the plaintext by swapping each letter or symbol in the plaintext by a different symbol as directed by the key. Perhaps the simplest substitution cipher is the Caesar cipher, named after the man who used it.
+## Is it secure? As many a schoolboy has discovered to his embarrassment, cyclical-shift substitution ciphers are not secure, nor is any other monoalphabetic substitution cipher in which a given plaintext symbol is always encrypted into the same ciphertext symbol.

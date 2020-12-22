@@ -1,9 +1,3 @@
-
-
-<h2>frank miller invented the first virsion of the one time pad in 1882</h2>
-<img src="http://ciphermachines.com/pictures/otp/miller.jpg">
-<h2>the one time pad was renvented in 1917 by gilbert vernam and was patented in 1919 in the united states.It is built on modular addition, similar to the Vigenère cipher, but without repeating the key. used in both ww1 and ww2, was most well know by being used by the KGB. </h2>
-<img src="http://kryptografie.de/kryptografie/personen/images/gilbert-vernam.png">
-[mechanics.md](https://github.com/ben-har/one-time-pad/edit/one-time-pad/Mechanics.md)
-
-
+## The M-94 Cipher was invented in 1917 by the United States military as a form of writing encrypted tactical messages
+## The basic idea off the cipher off of an invention created in 1795 by Thomas Jefferson
+## Link to the sources used [HERE](https://en.wikipedia.org/wiki/M-94)   [AND HERE](https://www.cryptomuseum.com/crypto/usa/m94/index.htm)
