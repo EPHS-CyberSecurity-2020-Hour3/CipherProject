@@ -1,0 +1,1 @@
+<h2>This cipher is not used because it's too impractical because for the OTP to work, you have to have both people have the key, so you have to share the key securely and if you have ability to do this then just share the plaintext. What made it useful is it has perfect security only breakable due to lucky guesses or user error.</h2>
