@@ -3,7 +3,7 @@
 # Substitution-Cypher
 
 
-#### Historical context
+#### [Substitution_History](rail-fence_computercode.md)
   When was this cipher used? Who used it?
 #### Mechanics
   How does the cipher work?
