@@ -10,3 +10,5 @@ My way of decrypting
 Why its hard to decode
 ----------------
 * It uses more then one key so it can frequency analysis a bit harder to use. Basically the same letter can be two different letters.
+--------------------
+[computer code](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Four_Square_Cipher/4SquareCipher_Computer_Code.md)
