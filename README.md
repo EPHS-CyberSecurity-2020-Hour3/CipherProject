@@ -29,7 +29,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Transposition Cipher
 - Substitution Cipher
 - Multiplicative Cipher
-- [Affine Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Affine_Cipher/Affine_Cipher_Historical.md)
+- Affine Cipher
 - Vigenere Cipher
 - One-Time Pad
 - Polybius Square
