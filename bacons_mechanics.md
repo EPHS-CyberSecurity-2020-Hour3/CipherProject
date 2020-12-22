@@ -32,3 +32,5 @@ Then when you want to decrypt it you would split it every 5th letter then turn c
 Which would make " AAAAB AABBB AAAAA BABBA" == "abhay"
 
 This proves that baons cypher is symmetric because you use the same method to encrypt as decrypting it.
+
+[Next](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/baconsCipher/bacons_compCode.md)
