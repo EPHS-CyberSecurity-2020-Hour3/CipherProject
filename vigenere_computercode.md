@@ -6,3 +6,5 @@
 
 ## Example
 > Here is an example of a Vigenere cipher using the website previously mentioned: Hello World --> Jvjah ewtcb, this was created using the cryptii key.
+
+[Next Page](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/Vigenere/vigenere_mechanics.md)
