@@ -39,7 +39,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Scytale Cipher
 - [Bacon's Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour3/CipherProject/blob/baconsCipher/bacons_history.md)
 - Book Cipher
-- Pigpen Cipher
+- [Pigpen Cipher](pigpen-history.md)
 - Playfair Cipher
 - M-94 Cipher
 - Nihilist Cipher
